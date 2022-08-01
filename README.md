@@ -1,2 +1,2 @@
-hi I am pajama.
-I work on packhub
+My name is pajama, and I am learning JS, and java!
+Here you can see my projects
