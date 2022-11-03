@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **pajama@canadamc.org**
 
-- 💬 Citation I like **when you find a good move, find a better one** - Mr. Robot 🤖
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -35,7 +33,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/RichardDorian/github-readme-streak-stats">
+    <a href="https://github.com/pajama10000/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RichardDorian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardDorian&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -48,7 +46,7 @@
 <br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<a><img alt="pajama10000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pajama100000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="pajama10000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pajama10000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 <p/>
