@@ -3,7 +3,7 @@
     I'm a young HTML & JavaScript developper
     <br>
     <br>
-    <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/690835131275018270"></a>
+    <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/pajama#1000"></a>
 </h3>
 
 
@@ -43,12 +43,12 @@
 ## 📊 My Github Stats
 <p align="center">
 <br/>
-<a><img alt="RichardDorian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RichardDorian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a><img alt="RichardDorian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardDorian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a><img alt="pajama10000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pajama10000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a><img alt="pajama10000's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajama10000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<a><img alt="RichardDorian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RichardDorian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="pajama10000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pajama100000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 <p/>
@@ -56,7 +56,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.youtube.com/channel/UCXRhlF3x02Sc8hgWnCMXnTQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https:/discord.gg/SolarTweaks"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
+<a href = "https:/discord.gg/canadamc"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 
 </p>
