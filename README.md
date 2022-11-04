@@ -3,7 +3,8 @@
     I'm a young HTML & JavaScript developper
     <br>
     <br>
-    <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/pajama#1000"></a>
+    <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/
+909611015644262402"></a>
 </h3>
 
 
