@@ -29,6 +29,7 @@
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <a href"https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-logo.png"/>
+    <a href"https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/>
  </a> 
 </p>
 
