@@ -27,7 +27,7 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://icons8.com/icon/61466/intellij-idea"/>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
  </a> 
 </p>
 
