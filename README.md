@@ -22,6 +22,7 @@
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/>
  </a> 
 </p>
 
