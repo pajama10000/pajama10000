@@ -25,6 +25,7 @@
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
  </a> 
 </p>
 
