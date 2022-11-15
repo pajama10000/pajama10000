@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pajama@canadamc.org**
 
-- 🤝 My friend **[Fxcilities](https://github.com/fxcilities)**
+- 🤝 My friend **[Fxcilities](https://github.com/Fxcilities)** works with my on almost every project
 
 ## 🚀 Languages and Tools:
 
