@@ -20,7 +20,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://images.app.goo.gl/fFTYUC17QyqWrH9P6"/>
+ </a> 
 </p>
 
 <br/>
