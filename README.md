@@ -21,7 +21,7 @@
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.google.com/search?q=kotlin+logo&tbm=isch&chips=q:kotlin+logo,g_1:icon:5-fb0zyHHA0%3D&hl=en&sa=X&ved=2ahUKEwiR9Ie95bD7AhUHBt8KHUPHBIQQ4lYoA3oECAEQJw&biw=1440&bih=821&safe=active&ssui=on#imgrc=MFcvvd6YoPtgiM"/>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
  </a> 
 </p>
 
