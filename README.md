@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm pajama</h1>
 <h3 align="center">
-    I'm a young HTML & JavaScript developper
+   focusing on IRL & <a href="https://www.canadamc.org/" target="_blank"> <img src="canadamc"/>
     <br>
     <br>
     <a href="#connect-with-me"><img src="(https://lanyard.cnrad.dev/api/909611015644262402)"></a>
