@@ -23,7 +23,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/>
-    <a href="https://www.jetbrains.com/webstorm" target="_blank"> <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"/>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
@@ -49,6 +48,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <a><img alt=
 "pajama10000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pajama10000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+I hate spongepowered mixins but I do love webstorm
 <br/>
 <br/>
 <p/>
