@@ -23,7 +23,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/>
-    <a href="[https://www.jetbrains.com/webstorm/](https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <a href="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
