@@ -1,17 +1,6 @@
-### Hey 👋, I'm pajama
+### Hey I am pajama ! [![Github](https://img.shields.io/github/followers/pajama10000?label=Follow&style=social)](https://github.com/pajama10000) ###
 
-[![Github](https://img.shields.io/github/followers/pajama10000?label=Follow&style=social)](https://github.com/pajama10000)
-
-# Welcome to my Github!
-
-My name is Pajama10000 and this is my personal Github page.
-
-I'm a software developer and I specialize in web development and mobile app development. My goal is to use my skills to create products that make life easier and more enjoyable.
-
-I'm always looking to collaborate with others on projects and to learn new things. I'm also open to mentoring and helping out other developers.
-
-Feel free to check out my repositories and get in touch if you'd like to work together.
-
-Thanks for stopping by!
-
--Pajama10000
+<h1>I am a front end developer that strives to be the best I possibly can !<h1/>
+  <p>I am currently working on a pixelated video game called pixel punchout with my very good friend fxcilites.<p>
+  
+  
