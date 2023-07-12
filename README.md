@@ -19,9 +19,6 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 
 
-
-<img src="https://github.com/pajama10000/pajama10000/blob/master/assets/repo.png?raw=true">
-
 ! working on https://github.com/SpaceBlocksMC/PluginCore
 
 <p align="center">
