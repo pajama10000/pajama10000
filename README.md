@@ -19,7 +19,6 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pajama10000&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <img src="https://github.com/pajama10000/pajama10000/blob/master/assets/repo.png?raw=true">
 
