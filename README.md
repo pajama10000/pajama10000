@@ -19,7 +19,7 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 
 
-! working on https://github.com/SpaceBlocksMC/PluginCore
+! working on https://github.com/pajama10000/PluginCore
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pajama10000" id="counter">
