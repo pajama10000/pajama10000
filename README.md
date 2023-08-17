@@ -21,7 +21,7 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,javascript,kotlin,java,python)
 
-! working on https://github.com/pajama10000/PluginCore
+! working on https://github.com/CanadaMC
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pajama10000" id="counter">
