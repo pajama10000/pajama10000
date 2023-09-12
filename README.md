@@ -22,6 +22,7 @@
 ![skills](https://skillicons.dev/icons?i=html,css,javascript,kotlin,java,python)
 
 ! working on https://github.com/CanadaMC
+<span>
 ! former executive @ https://github.com/PvPHubLLC
 
 <p align="center">
