@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: pajama@canadamc.org
-- 😄 My website: https://canadamc.org/
+- 😄 My website: https://pajamamc.xyz/
 - ⚡ Fun fact: I'm 15 years old
 
 <span> 
